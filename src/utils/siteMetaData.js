@@ -1,7 +1,7 @@
 // please update required information
 const siteMetadata = {
     title: 'Next.js Blog With Tailwind CSS and Contentlayer',
-    author: 'CodeBucks',
+    author: 'VScompare',
     headerTitle: 'Next.js Blog',
     description: 'A blog created with Next.js, Tailwind.css and contentlayer.',
     language: 'en-us',
@@ -14,7 +14,7 @@ const siteMetadata = {
     twitter: 'https://twitter.com/code_bucks',
     facebook: 'https://facebook.com',
     youtube: 'https://youtube.com/codebucks',
-    linkedin: 'https://www.linkedin.com/in/codebucks/',
+    linkedin: 'https://linkedin.com/in/nabil66',
     dribbble: 'https://www.dribbble.com',
     locale: 'en-US',
   }
